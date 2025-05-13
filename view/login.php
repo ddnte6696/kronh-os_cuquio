@@ -65,7 +65,7 @@ error_reporting(E_ALL);
   </div>
 </div>
 <footer class="footer text-center">
-  <div class="container">kronh-os_cuquio LAB CENTER</div>
+  <div class="container">KORNHOS LAB CENTER</div>
 </footer>
 </body>
 </html>
