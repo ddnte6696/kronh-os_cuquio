@@ -1,6 +1,6 @@
 
 <footer class="footer text-center">
-	<div class="container">KRONH-OS LAB CENTER</div>
+	<div class="container">kronh-os_cuquio LAB CENTER</div>
 </footer>
 </body>
 </html>

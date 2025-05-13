@@ -1,7 +1,7 @@
 <?php
 	session_start();
-	$usuario=$_SESSION['kronh-os']['id'];
-	include '../../connection/kronh-os.sql.db.php';
+	$usuario=$_SESSION['kronh-os_cuquio']['id'];
+	include '../../connection/kronh-os_cuquio.sql.db.php';
 	//obtengo los datos a insertar
 		$id=htmlspecialchars($_POST['id'],ENT_QUOTES);
 		$target=htmlspecialchars($_POST['target'],ENT_QUOTES);

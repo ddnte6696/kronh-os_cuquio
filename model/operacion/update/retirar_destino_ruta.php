@@ -4,7 +4,7 @@
   //Incluyo el archivo de configuracion
     include_once $_SERVER['DOCUMENT_ROOT'].'/'.$_SESSION['ubi'].'/lib/config.php';
   //Obtengo el usuario actual
-    $usuario=$_SESSION['kronh-os']['id'];
+    $usuario=$_SESSION['kronh-os_cuquio']['id'];
   //OObtengo el dato enviado y lo separo
     $dato=explode("||", campo_limpiado($_POST['dato'],2,0));
   //Almaceno cada dato por separado en una variable

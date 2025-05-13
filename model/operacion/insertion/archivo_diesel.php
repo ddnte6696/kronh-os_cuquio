@@ -6,7 +6,7 @@
 	//Se incluye el archivo de conexión
 	include_once A_CONNECTION;
 	//Obtengo el id del usuario actual
-	$usuario=$_SESSION['kronh-os']['id'];
+	$usuario=$_SESSION['kronh-os_cuquio']['id'];
 	//Se obtienen los datos de los campos
 	$fecha=$_POST['fecha'];
 	//Se definen variables

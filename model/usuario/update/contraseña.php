@@ -2,7 +2,7 @@
   session_start();
   error_reporting(E_ALL);
   ini_set("display_errors", 1);
-  include '../../connection/kronh-os.sql.db.php';
+  include '../../connection/kronh-os_cuquio.sql.db.php';
   $id=htmlspecialchars($_POST['identi'],ENT_QUOTES);
   $pass=md5(htmlspecialchars($_POST['pass'],ENT_QUOTES));
 
@@ -14,7 +14,7 @@
     $horas=$hoy['hours'];
     $minutos=$hoy['minutes'];
   $h_registro="$horas:$minutos";
-  $usuario=$_SESSION['kronh-os']['id'];
+  $usuario=$_SESSION['kronh-os_cuquio']['id'];
     $sql=$conn->prepare("UPDATE usuarios SET password='$pass' WHERE id=$id");
     $res=$sql->execute();
     if($res === TRUE){

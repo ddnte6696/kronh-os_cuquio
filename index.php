@@ -1,5 +1,5 @@
 <?php
-  define('TARGET', 'kronh-os');
+  define('TARGET', 'kronh-os_cuquio');
   if (session_status() === PHP_SESSION_NONE) {session_start();}
   $_SESSION['ubi']=TARGET;
   include_once $_SERVER['DOCUMENT_ROOT'].'/'.TARGET.'/lib/config.php';

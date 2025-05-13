@@ -1,6 +1,6 @@
 <?php
   session_start();
-  include '../../../connection/kronh-os.sql.db.php';
+  include '../../../connection/kronh-os_cuquio.sql.db.php';
   $id=htmlspecialchars($_POST['id'],ENT_QUOTES);
   $fecha=htmlspecialchars($_POST['fecha'],ENT_QUOTES);
   $folio=htmlspecialchars($_POST['folio'],ENT_QUOTES);

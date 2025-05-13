@@ -2,7 +2,7 @@
 	session_start();
 	//error_reporting(E_ALL);
 	//ini_set("display_errors", 1);
-	include '../../connection/kronh-os.sql.db.php';
+	include '../../connection/kronh-os_cuquio.sql.db.php';
 	$id=htmlspecialchars($_POST['id'],ENT_QUOTES);
 	$clave=htmlspecialchars($_POST['clave'],ENT_QUOTES);
 	$empresa=htmlspecialchars($_POST['empresa'],ENT_QUOTES);

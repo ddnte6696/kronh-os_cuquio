@@ -2,7 +2,7 @@
   //Se revisa si la sesión esta iniciada y sino se inicia
     if (session_status() === PHP_SESSION_NONE) {session_start();}
   //Defino el apuntador de la carpeta actual
-    define('TARGET', 'kronh-os');
+    define('TARGET', 'kronh-os_cuquio');
   //Asigno la variable de sesion del apuntador definido
     $_SESSION['ubi']=TARGET;
   //Incluyo el archivo de configuracion

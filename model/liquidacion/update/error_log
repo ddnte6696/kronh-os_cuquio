@@ -1,208 +1,208 @@
-[13-Dec-2024 14:06:32 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+[13-Dec-2024 14:06:32 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[13-Dec-2024 14:06:35 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[13-Dec-2024 14:06:35 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[13-Dec-2024 14:14:48 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_pas_tal_taq_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[13-Dec-2024 14:14:48 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_pas_tal_taq_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_pas_tal_taq_op_rl.php(26): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_pas_tal_taq_op_rl.php(26): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[13-Dec-2024 14:16:15 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_pas_tal_taq_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[13-Dec-2024 14:16:15 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_pas_tal_taq_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_pas_tal_taq_op_rl.php(26): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_pas_tal_taq_op_rl.php(26): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[13-Dec-2024 14:17:26 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_pas_tal_taq_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[13-Dec-2024 14:17:26 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_pas_tal_taq_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_pas_tal_taq_op_rl.php(26): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_pas_tal_taq_op_rl.php(26): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[18-Dec-2024 17:46:18 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[18-Dec-2024 17:46:18 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[18-Dec-2024 17:46:41 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[18-Dec-2024 17:46:41 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[18-Dec-2024 17:47:02 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[18-Dec-2024 17:47:02 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 08:29:27 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 08:30:12 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 08:37:16 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 11:41:09 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 08:29:27 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 08:30:12 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 08:37:16 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 11:41:09 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 12:09:47 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 12:09:47 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 13:50:35 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 13:50:35 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 19:04:16 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:04:16 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:04:36 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:04:36 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:04:51 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:04:51 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:05:29 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:05:29 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:09:11 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:09:11 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:09:28 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:09:28 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:09:37 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:09:37 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:09:46 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:09:46 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:09:53 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:09:53 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:00 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:00 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:19 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:19 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:25 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:25 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:35 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:35 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:42 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:42 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:49 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:49 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:10:57 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:10:57 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:11:06 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:11:06 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:11:15 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:11:15 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:11:21 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:11:21 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:11:31 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:11:31 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:11:49 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:11:49 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:11:57 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:11:57 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:12:07 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:12:07 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:12:12 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:12:12 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:12:20 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:12:20 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:12:57 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:12:57 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:12:58 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:12:58 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:13:07 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:13:07 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:13:13 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:13:13 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 19:13:23 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_op_rl.php on line 17
-[19-Dec-2024 19:13:23 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 571
-[19-Dec-2024 21:48:13 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 19:04:16 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:04:16 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:04:36 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:04:36 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:04:51 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:04:51 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:05:29 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:05:29 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:09:11 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:09:11 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:09:28 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:09:28 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:09:37 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:09:37 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:09:46 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:09:46 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:09:53 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:09:53 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:00 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:00 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:19 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:19 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:25 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:25 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:35 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:35 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:42 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:42 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:49 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:49 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:10:57 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:10:57 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:11:06 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:11:06 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:11:15 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:11:15 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:11:21 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:11:21 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:11:31 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:11:31 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:11:49 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:11:49 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:11:57 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:11:57 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:12:07 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:12:07 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:12:12 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:12:12 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:12:20 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:12:20 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:12:57 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:12:57 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:12:58 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:12:58 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:13:07 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:13:07 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:13:13 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:13:13 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 19:13:23 America/Monterrey] PHP Warning:  Undefined array key 3 in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_op_rl.php on line 17
+[19-Dec-2024 19:13:23 America/Monterrey] PHP Warning:  Trying to access array offset on value of type bool in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 571
+[19-Dec-2024 21:48:13 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 21:48:46 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 21:48:46 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 22:15:04 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 22:15:04 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/pas_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/pas_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[19-Dec-2024 22:16:29 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[19-Dec-2024 22:16:29 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php on line 24 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/paq_tal_taq_op_rl.php(24): registra_bitacora('SE AGREGA UN IM...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:23:22 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:23:22 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php on line 26 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/liq_ant_op_rl.php(26): registra_bitacora('SE AGREGA UN AN...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:23:31 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:23:31 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:23:44 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:23:44 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:23:48 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/abrir_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:23:48 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/abrir_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/abrir_liquidacion.php(17): registra_bitacora('SE ABRE LA LIQU...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/abrir_liquidacion.php(17): registra_bitacora('SE ABRE LA LIQU...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:27:29 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/abrir_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:27:29 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/abrir_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/abrir_liquidacion.php(17): registra_bitacora('SE ABRE LA LIQU...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/abrir_liquidacion.php(17): registra_bitacora('SE ABRE LA LIQU...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:27:31 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:27:31 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:27:32 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:27:32 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:39:00 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:39:00 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:45:22 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:45:22 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:50:34 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:50:34 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 13:56:40 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 13:56:40 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 14:09:24 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 14:09:24 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 14:28:13 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 14:28:13 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/cerrar_liquidacion.php(17): registra_bitacora('SE CIERRA LA LI...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
-[20-Dec-2024 20:52:18 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/abrir_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os/lib/funciones.php:611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611
+[20-Dec-2024 20:52:18 America/Monterrey] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function registra_bitacora(), 1 passed in /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/abrir_liquidacion.php on line 17 and at least 2 expected in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php:611
 Stack trace:
-#0 /home1/omnibusg/public_html/kronh-os/model/liquidacion/update/abrir_liquidacion.php(17): registra_bitacora('SE ABRE LA LIQU...')
+#0 /home1/omnibusg/public_html/kronh-os_cuquio/model/liquidacion/update/abrir_liquidacion.php(17): registra_bitacora('SE ABRE LA LIQU...')
 #1 {main}
-  thrown in /home1/omnibusg/public_html/kronh-os/lib/funciones.php on line 611
+  thrown in /home1/omnibusg/public_html/kronh-os_cuquio/lib/funciones.php on line 611

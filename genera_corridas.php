@@ -2,7 +2,7 @@
 	//Reviso si la sesion esta iniciada o no
 		if (session_status() === PHP_SESSION_NONE) {session_start();}
 	//Reviso si la constante de sesion
-		if ($_SESSION['ubi']=='') { $_SESSION['ubi']="kronh-os"; }
+		if ($_SESSION['ubi']=='') { $_SESSION['ubi']="kronh-os_cuquio"; }
 	//Realizo la inclusio del archivo de configuracion
 		include_once $_SERVER['DOCUMENT_ROOT'].'/'.$_SESSION['ubi'].'/lib/config.php';
 	//Realizo la ejecucion de la funcion

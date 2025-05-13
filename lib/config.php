@@ -1,7 +1,7 @@
 <?php
 	if (session_status() === PHP_SESSION_NONE) {session_start();}
 	//Constante del sistema a usar
-		if ($_SESSION['ubi']=='') { $_SESSION['ubi']="kronh-os"; }
+		if ($_SESSION['ubi']=='') { $_SESSION['ubi']="kronh-os_cuquio"; }
 		define('UBI', $_SESSION['ubi'] );
 	//Defino la zona horaria
 		date_default_timezone_set('America/Monterrey');
@@ -27,17 +27,17 @@
 			define('USER_DB','root');
 			define('PASSWRD_DB','');
 			define('HOST_DB','localhost');
-			define('NAME_DB','kronh-os');
+			define('NAME_DB','kronh-os_cuquio');
 			define('PORT_DB','3306');
 		/*//conexion a la base de datos del sistema (PRODUCCION)
 			define('USER_DB','omnibusg_oyg');
 			define('PASSWRD_DB','ZzjWr1ZaX1RJJz2');
 			define('HOST_DB','localhost');
-			define('NAME_DB','omnibusg_kronh-os');
+			define('NAME_DB','omnibusg_kronh-os_cuquio');
 			define('PORT_DB','3306');
 		//*/
 	//Librerias de PHPMailer
-    	require A_LIB.'PHPMailer/PHPMailer.php';
+    require A_LIB.'PHPMailer/PHPMailer.php';
 		require A_LIB.'PHPMailer/Exception.php';
 		require A_LIB.'PHPMailer/SMTP.php';
 	//Librerias de encriptado y limpieza

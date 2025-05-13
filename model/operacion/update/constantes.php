@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	include '../../connection/kronh-os.sql.db.php';
+	include '../../connection/kronh-os_cuquio.sql.db.php';
 	$precio_adblue=htmlspecialchars($_POST['precio_adblue'],ENT_QUOTES);
 	$precio_diesel=htmlspecialchars($_POST['precio_diesel'],ENT_QUOTES);
 

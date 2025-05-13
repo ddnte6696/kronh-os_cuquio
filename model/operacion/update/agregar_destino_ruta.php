@@ -4,7 +4,7 @@
   //Incluyo el archivo de configuracion
     include_once $_SERVER['DOCUMENT_ROOT'].'/'.$_SESSION['ubi'].'/lib/config.php';
   //Obtengo el usuario actual
-    $usuario=$_SESSION['kronh-os']['id'];
+    $usuario=$_SESSION['kronh-os_cuquio']['id'];
   //Obtengo los datos del destino
     $id_destino=campo_limpiado($_POST['id_destino'],2,0);
     $destino=campo_limpiado($_POST['nombre_destino'],0,0);

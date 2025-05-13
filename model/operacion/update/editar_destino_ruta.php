@@ -6,7 +6,7 @@
   //Incluyo el archivo de conexion
     include_once A_CONNECTION;
   //Obtengo el usuario actual
-    $usuario=$_SESSION['kronh-os']['id'];
+    $usuario=$_SESSION['kronh-os_cuquio']['id'];
   //Obtengo los datos del destino
     $id_destino=campo_limpiado($_POST['id_destino'],2,0);
     $nombre_destino=campo_limpiado($_POST['nombre_destino'],0,0);
