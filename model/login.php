@@ -81,10 +81,6 @@
                   );
                 //asigno los datos del arreglo a la variable de sesion
                   $_SESSION[UBI]=$datos;
-                //Reviso si existen corridas registradas en el
-                  $sentencia="SELECT count(id) as exist FROM corrida WHERE fecha='".ahora(1)."';";
-                  $existencia=busca_existencia($sentencia);
-                  if ($existencia==0) { genera_corridas(ahora(1),''); }
                 //regeso al index para que mande a llamar el body
                   echo "ok";
                 //
