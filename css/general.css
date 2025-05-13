@@ -1,0 +1,27 @@
+form#recoverform {
+  z-index: 100;
+  display:none;
+}
+.card {
+  background-color: #f2f2f2;
+  }
+.card-header {
+  text-align:center!important;
+}
+.table, .table-bordered {
+  background-color: #ffffff;
+}
+.carousel-inner img {
+  width: 50%;
+  height: 50%;
+}
+.jumbotron {
+  background-color: #e60000;
+  color:white;
+}
+.mini{
+  min-width: 90px;
+}
+nav.navbar {
+  background-color: #e60000;
+}
