@@ -16,7 +16,6 @@
 
 		$clave=campo_limpiado($_POST['user'],0,0,1);
 		$password=md5(campo_limpiado($_POST['password'],0,0,1));
-		$taquilla=campo_limpiado($_POST['taquilla'],2,0,1);
 
 		$puesto=campo_limpiado($_POST['puesto'],2,0,1);
 		$empresa=campo_limpiado($_POST['empresa'],2,0,1);
@@ -39,7 +38,6 @@
 						puesto,
 						empresa,
 						division,
-						taquilla,
 						f_ingreso,
 						token,
 						photo,
@@ -57,7 +55,6 @@
 						$puesto,
 						$empresa,
 						$division,
-						'$taquilla',
 						'$f_ingreso',
 						'$ap',
 						'common.png',

@@ -12,7 +12,6 @@
     $permisos=campo_limpiado($_SESSION[UBI]['permisos'],2,0);
     $puesto=campo_limpiado($_SESSION[UBI]['puesto'],2,0);
     $empresa=campo_limpiado($_SESSION[UBI]['empresa'],2,0);
-    $taquilla=campo_limpiado($_SESSION[UBI]['taquilla'],2,0);
   //Divido los menu's por su separador
     $menus=explode("!!", $permisos);
   //Defino character para utilizar en una condicional
@@ -36,7 +35,7 @@
                 echo "
                   <strong>$nombre $apellido</strong>
                   <br>
-                  <small>$taquilla - $puesto</small>
+                  <small>$puesto</small>
                 "; 
               ?>
             </a>
@@ -45,18 +44,6 @@
               <a class="dropdown-item" href="view/recargar_datos.php">
                 <strong>
                   <i class="fas fa-sync" ></i> Recargar datos
-                </strong>
-              </a>
-
-              <a class="dropdown-item" onclick="cambiar_taquilla_modal();">
-                <strong>
-                  <i class="fas fa-exchange-alt" ></i> Cambiar de taquilla
-                </strong>
-              </a>
-
-              <a class="dropdown-item" onclick="regenera_corridas();">
-                <strong>
-                  <i class="fas fa-exchange-alt" ></i> Regenerar corridas
                 </strong>
               </a>
 

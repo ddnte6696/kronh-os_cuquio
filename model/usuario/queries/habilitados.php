@@ -18,7 +18,6 @@
           <th>Telefono</th>
           <th>Nombre</th>
           <th>Puesto</th>
-          <th>Taquilla</th>
           <th></th>
         </tr>
       </thead>
@@ -26,7 +25,7 @@
         <?php
           $sentencia="
             SELECT
-             a.id,a.clave,a.nombre,a.password,a.apellido,a.telefono,a.taquilla,a.f_ingreso,
+             a.id,a.clave,a.nombre,a.password,a.apellido,a.telefono,a.f_ingreso,
              b.puesto
             FROM usuarios as a
               LEFT JOIN puestos as b on a.puesto=b.id
@@ -43,7 +42,6 @@
               $nombre=$tabla['nombre'];
               $apellido=$tabla['apellido'];
               $puesto=$tabla['puesto'];
-              $taquilla=$tabla['taquilla'];
               $ingreso=$tabla['f_ingreso'];
               $dato="'".campo_limpiado($id,1,0)."'";
               echo "
@@ -52,7 +50,6 @@
                   <td>$telefono</td>
                   <td>$nombre $apellido</td>
                   <td>$puesto</td>
-                  <td>$taquilla</td>
                   <td>
                     <a onclick=\"editar($dato)\" class=\"btn btn-primary text-light\" data-toggle=\"tooltip\" title=\"Editar este colaborador\"><i class='fas fa-user-edit'  style='font-size:24px'></i></a>
                     <a onclick=\"baja($dato)\" class=\"btn btn-danger text-light\"><i class='fas fa-user-slash'  style='font-size:24px'></i></a>

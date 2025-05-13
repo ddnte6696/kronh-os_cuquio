@@ -28,7 +28,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>TELEFONO</strong></span>
@@ -36,7 +36,7 @@
             <input type="text" name="phone" class="form-control"  placeholder="Telefono"/>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>CORREO</strong></span>
@@ -44,7 +44,7 @@
             <input type="text" name="mail" class="form-control"  placeholder="Correo electronico">
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>INGRESO</strong></span>
@@ -53,7 +53,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>USUARIO</strong></span>
@@ -62,7 +62,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>CONTRASEÑA</strong></span>
@@ -71,44 +71,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
-          <div class="input-group mb-3 input-group-sm">
-            <div class="input-group-prepend">
-                <span class="input-group-text"><strong>TAQUILLA</strong></span>
-            </div>
-            <select  name='taquilla' id="taquilla" class="custom-select" required="">
-              <?php
-                //Imprimo na opcion general
-                  echo "<option value='".campo_limpiado('0',1,0)."'>NINGUNA</option>";
-                //
-                //Defino la sentencia a ejecutar
-                  $sentencia="SELECT * FROM destinos where punto=true";
-                //Ejecuto la sentencia y almaceno lo obtenido en una variable
-                  $resultado_sentencia=retorna_datos_sistema($sentencia);
-                //Identifico si el reultado no es vacio
-                  if ($resultado_sentencia['rowCount'] > 0) {
-                    //Almaceno los datos obtenidos
-                      $resultado = $resultado_sentencia['data'];
-                    // Recorrer los datos y llenar las filas
-                      foreach ($resultado as $tabla) {
-                        //Creo una variable especial
-                          $id_origen=$tabla['id'];
-                          $origen=$tabla['destino'];
-                        //Creeo un dato especial del destino
-                          $dato=campo_limpiado($origen,1,0);
-                        //Imprimo el campo
-                          echo "<option value='$dato'>$origen</option>";
-                        //
-                      }
-                    //
-                  }
-                //
-              ?>
-            </select>
-          </div>
-        </div>
-
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>PUESTO</strong></span>
@@ -140,7 +103,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>EMPRESA</strong></span>
@@ -172,7 +135,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="input-group mb-3 input-group-sm">
             <div class="input-group-prepend">
               <span class="input-group-text"><strong>DIVISION</strong></span>
