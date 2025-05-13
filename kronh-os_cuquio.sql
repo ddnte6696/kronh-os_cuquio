@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 13-05-2025 a las 23:07:11
+-- Tiempo de generación: 13-05-2025 a las 23:17:41
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -91,18 +91,6 @@ CREATE TABLE `cargas_diesel` (
   `usuario_registra` text NOT NULL,
   `fecha_registra` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
--- --------------------------------------------------------
-
---
--- Estructura de tabla para la tabla `constantes`
---
-
-CREATE TABLE `constantes` (
-  `tarifa` float DEFAULT NULL,
-  `precio_diesel` float NOT NULL,
-  `precio_adblue` float NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
 
 -- --------------------------------------------------------
 
@@ -381,30 +369,6 @@ INSERT INTO `usuarios` (`id`, `nombre`, `apellido`, `correo`, `clave`, `password
 (2, 'ERICK RICARDO', 'TRUJILLO PEREZ', 'N/A', 'LTRUJILLO', '87ab0c1fa84903695ba2315d9b36c9d8', '3315328514', 2, NULL, 1, 1, '2023-11-08', '627771a890cbe52829c2cb156c91187f', 'common.png', NULL, '6||||0', 1, '2023-11-08', 1),
 (3, 'ANA KAREN', 'PADILLA MENDEZ', 'N/A', 'karenpadi', 'fccb4dd286c74b400a130cb5a055e29e', '3339036414', 2, NULL, 1, 1, '2024-07-09', '42be6ad125c79d322c46abaf2106bf77', 'common.png', NULL, '18||||0', 1, '2024-07-09', 1);
 
--- --------------------------------------------------------
-
---
--- Estructura de tabla para la tabla `venta_web`
---
-
-CREATE TABLE `venta_web` (
-  `id` int(11) NOT NULL,
-  `id_pago` varchar(255) NOT NULL,
-  `estado` varchar(50) NOT NULL,
-  `referencia` varchar(255) DEFAULT NULL,
-  `monto` decimal(10,2) NOT NULL,
-  `monto_neto` decimal(10,2) NOT NULL,
-  `moneda` varchar(10) NOT NULL,
-  `mail_comprador` varchar(255) NOT NULL,
-  `nombre_comprador` varchar(255) NOT NULL,
-  `metodo_pago` varchar(50) NOT NULL,
-  `tipo_pago` varchar(50) NOT NULL,
-  `cantidad_cuotas` int(11) DEFAULT 0,
-  `importe_cuotas` decimal(10,2) DEFAULT 0.00,
-  `fecha_creacion` datetime NOT NULL,
-  `fecha_aprovacion` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
 --
 -- Índices para tablas volcadas
 --
@@ -494,12 +458,6 @@ ALTER TABLE `usuarios`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indices de la tabla `venta_web`
---
-ALTER TABLE `venta_web`
-  ADD PRIMARY KEY (`id`);
-
---
 -- AUTO_INCREMENT de las tablas volcadas
 --
 
@@ -586,12 +544,6 @@ ALTER TABLE `unidades`
 --
 ALTER TABLE `usuarios`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
-
---
--- AUTO_INCREMENT de la tabla `venta_web`
---
-ALTER TABLE `venta_web`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
